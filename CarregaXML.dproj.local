@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/16 20:53:43.000.419,=C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/23 18:15:48.000.434,=C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/23 20:02:05.000.227,=C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/23 20:02:50.000.209,C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\nfe_xml\ufrmCarregaXML.dfm=C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/02/23 20:02:50.000.209,C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\nfe_xml\ufrmCarregaXML.pas=C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/23 20:03:07.000.487,C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\nfe_xml\CarregaXML.dproj=C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/02/25 23:42:22.000.462,C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\nfe_xml\CarregaXML.dproj=E:\proj_cg76\NFE\CarregaXML.dproj</Transaction>
+    <Transaction>2020/02/25 23:42:45.000.958,C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\nfe_xml\ufrmCarregaXML.dfm=E:\proj_cg76\NFE\ufrmCarregaXML.dfm</Transaction>
+    <Transaction>2020/02/25 23:42:45.000.958,C:\Users\cgobbo\Documents\Embarcadero\Studio\Projects\nfe_xml\ufrmCarregaXML.pas=E:\proj_cg76\NFE\ufrmCarregaXML.pas</Transaction>
+  </Transactions>
+</BorlandProject>
